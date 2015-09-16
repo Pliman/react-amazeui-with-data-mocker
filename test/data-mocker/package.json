@@ -1,0 +1,25 @@
+{
+  "name": "data mocker",
+  "version": "0.0.1",
+  "description": "data mocker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pliman/react-amazeui-with-data-mocker.git"
+  },
+  "author": "Pliman",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "dependencies": {
+    "koa": "^0.21.0",
+    "koa-bodyparser": "^2.0.1",
+    "koa-gzip": "^0.1.0",
+    "koa-route": "^2.4.2",
+    "koa-static": "^1.4.9"
+  }
+}
